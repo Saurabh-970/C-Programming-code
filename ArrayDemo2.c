@@ -4,7 +4,7 @@ int main ()
 
     int Arr[4]= {10,29,30};
 
-    int Brr[3\];
+    int Brr[3];
     Brr[2] = 30;
     Brr[0] = 10;
     Brr[1] = 20;
